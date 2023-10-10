@@ -124,12 +124,12 @@ main strong{
   padding: 5px 4px;
   
 }
-footer a{
+footer p{
   color: white;
   text-decoration: none;
   font-weight: bold;
-  text-decoration: underline;
-  margin:0px;
+  width: 150px;
+  margin: auto;
 }
 footer p:hover{
    color: #64d898;
